@@ -1,2 +1,1 @@
 # OpenclassroomProject
-OpenClassroom class
